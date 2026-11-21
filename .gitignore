@@ -1,0 +1,29 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+keystore.properties
+*.jks
+*.keystore
+captures/
+__pycache__/
+
+# AI assistant files (kept local, never committed)
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+.cursor/
+.cursorrules
+.windsurfrules
+.aider*
+.github/copilot-instructions.md
+AGENTS.md
+GEMINI.md
+.gemini/
+
+# Play Store build outputs (large binaries)
+playstore/release/*.aab
+playstore/release/*.apk

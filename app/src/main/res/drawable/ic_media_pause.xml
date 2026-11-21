@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated from tools/gen_icon.py geometry. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:fillColor="#FFFFFFFF" android:pathData="M8,5 H8.5 A2,2 0 0,1 10.5,7 V17 A2,2 0 0,1 8.5,19 H8 A2,2 0 0,1 6,17 V7 A2,2 0 0,1 8,5 Z"/>
+    <path android:fillColor="#FFFFFFFF" android:pathData="M15.5,5 H16.0 A2,2 0 0,1 18.0,7 V17 A2,2 0 0,1 16.0,19 H15.5 A2,2 0 0,1 13.5,17 V7 A2,2 0 0,1 15.5,5 Z"/>
+</vector>

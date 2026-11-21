@@ -1,0 +1,47 @@
+Zuno is a private, beautiful web browser that blocks ads and trackers before they load, so pages open faster, cleaner and calmer.
+
+Most Android browsers are Chrome underneath. Zuno is different: it runs on Gecko, the independent open-source engine behind Firefox, wrapped in a Material You design that feels at home on your phone.
+
+ZUNO SHIELD: BLOCK ADS & TRACKERS
+• Blocks ads, trackers, cryptominers and fingerprinting scripts
+• Auto-rejects annoying cookie consent pop-ups
+• HTTPS-only mode and Global Privacy Control
+• See how many ads and trackers were blocked on every page
+• Pause blocking for any site with one tap
+• Want more? Add uBlock Origin in one tap from Settings
+
+TABS, THE SMARTER WAY
+• Vertical tab sidebar instead of a crowded tab grid
+• Workspaces for Personal, Work, Study... swipe to switch
+• Pin your favourite sites to a quick grid in every workspace
+• Swipe the address bar to jump between tabs
+
+BACKGROUND PLAY
+• Keep music and videos playing when you leave the app or lock your screen
+• Play, pause and skip from your notifications and lock screen
+• Works with music and video sites like YouTube and YouTube Music in the browser
+
+PRIVATE MODE THAT MEANS IT
+• A separate space with its own tabs and its own look
+• No history, no saved searches
+• Cookies and site data are wiped when you close private tabs
+
+MATERIAL YOU, EXPRESSIVE DESIGN
+• Colours that follow your wallpaper, or pick a palette
+• Light, dark and pure-black (AMOLED) themes
+• Compact mode: the toolbar slides away as you scroll, giving pages the full screen
+• Smooth, playful animations throughout
+
+YOUR DATA STAYS YOURS
+• No account, no sign-in
+• No analytics, no ads, no tracking by us
+• Your tabs, history and settings stay on your phone
+
+MORE
+• Choose your search engine: DuckDuckGo, Startpage, Brave Search, Ecosia, Google or Bing
+• Desktop site mode, find in page, downloads and secure-connection details for every site
+• Clear cookies and data for one site, or everything
+
+Zuno Browser is built with Mozilla GeckoView. Zuno is an independent app and is not affiliated with Mozilla.
+
+Privacy policy: see the link on this page.

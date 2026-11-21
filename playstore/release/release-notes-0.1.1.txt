@@ -1,0 +1,7 @@
+First internal test build of Zuno Browser.
+
+• Zuno Shield ad and tracker blocking with per-site controls
+• Vertical tabs, workspaces and pinned sites
+• Background play with media controls
+• App-wide private mode
+• Material You themes and animated onboarding

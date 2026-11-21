@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Zuno Shield",
+  "version": "1.1",
+  "description": "Built-in ad and tracker blocker for Zuno.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "shield@zuno.browser"
+    }
+  },
+  "permissions": [
+    "<all_urls>",
+    "webRequest",
+    "webRequestBlocking",
+    "tabs",
+    "nativeMessaging",
+    "nativeMessagingFromContent",
+    "geckoViewAddons"
+  ],
+  "background": {
+    "scripts": [
+      "filters.js",
+      "background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": false
+    },
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "bgplay.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ]
+}
