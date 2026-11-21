@@ -23,7 +23,7 @@ playstore/
 | Upload key | `~/keystores/zuno-release.jks`, alias `zuno`, SHA-256 `58:D2:42:18:80:AD:AA:B0:15:74:00:DE:E7:BA:6D:47:5E:91:3A:C4:A9:FA:A9:5F:F1:8F:3C:8E:17:EE:36:4F` |
 | Target SDK | 36 · min SDK 26 (Android 8.0) |
 | 16 KB page size | Supported (all native libs 0x4000-aligned) |
-| Privacy policy URL | `https://<github-user>.github.io/<repo>/privacy/` (from `docs/`, see below) |
+| Privacy policy URL | https://najeer-k11.github.io/zuno-browser/privacy/ |
 
 ---
 
@@ -91,7 +91,7 @@ The site lives in `/docs` (`docs/index.html` and `docs/privacy/index.html`).
 
 1. Push the repo to GitHub.
 2. Repo → Settings → Pages → Source: *Deploy from a branch* → Branch `main`, folder **`/docs`** → Save.
-3. After a minute the policy is at `https://<github-user>.github.io/<repo>/privacy/`.
+3. Live at https://najeer-k11.github.io/zuno-browser/privacy/ (Pages enabled from `main` → `/docs`).
 
 ## 6. Before moving past internal testing
 
